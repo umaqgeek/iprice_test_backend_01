@@ -12,14 +12,17 @@ $ composer install
 ## Execution
 
 1. Running this command in the terminal and pass your string or sentenses as its arguments:
-1.1. Format:
+
+  1.1. Format:
 ```
 $ php index.php <your sentence or any string>
 ```
-1.2. Example:
+
+  1.2. Example:
 ```
 $ php index.php hello world
 ```
+
 2. After you ran above command, it should prompt like this result:
 ```
 HELLO WORLD
